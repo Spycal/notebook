@@ -699,8 +699,38 @@
 - Jabatan/Agensi
 - Perbadanan Awam
 - Suruhanjaya
-
-
-
-
-
+- Struktur 
+- **Sistem dan Struktur Pentadbiran Kerajaan Negeri** *bentuk jadual*
+* **Struktur Pentadbiran Semenanjung Malaysia**
+  - **Sultan/Raja/YDPN**
+    - *ada 3*
+    * **Tugas eksekutif Sultan** 
+      - Tugas Budi Bicara
+      - Tugas mengikut nasihat
+      - Sultan/YDPA = Pengerusi Majlis Pengampunan Negeri
+      - Sultan/Raja = Ketua agama islam negeri masing2
+* **Ketua Menteri atau Menteri Besar dan tugasnya**
+  - *ada 8*
+* **Majlis Mesyuarat Kerajaan (MMK)
+  - *ada 5*
+* **Jabatan**
+  * **Jabatan Negeri (Agensi Pusat Negeri)**
+    * **Pejabat Setiausaha Kerajaan Negeri**
+      - *ada 5 serta 5 fungsi* 
+    * **Pejabat Kewangan Negeri**
+      - *ada 4*
+    * **Pejabat Penasihat Undang-Undang Negeri**
+      - *ada 7 serta 3 tugas*
+    * **Unit Perancang Ekonomi Negeri**
+      - *ada 7*
+  * **Jabatan Persekutuan Cawangan Negeri (Pejabat Kemajuan Negeri)** 
+    - *ada 5 tugas*
+    * **Pejabat Negeri (Agensi Pelaksana)**
+      * Jabatan Tanah dan Giliran**
+        - *ada 6* 
+      * **Jabatan Daerah dan Tanah**
+        - *ada 4*
+      * **Jabatan Persekutuan Cawangan Negeri**
+        - *ada 1 serta 1 contoh*
+ 
+    
