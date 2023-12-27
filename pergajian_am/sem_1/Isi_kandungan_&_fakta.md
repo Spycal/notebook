@@ -1,3 +1,8 @@
+---
+header-includes: |
+  \usepackage[legalpaper, landscape, margin=2cm]{geometry}
+
+---
 
 # Isi Kandungan dan Fakta
 
@@ -692,28 +697,24 @@
    - Pinjaman daripada Kerajaan Persekutuan
    - Pinjaman daripada bank dengan syarat..
 
+
 ##### 7.2.2.2 Struktur Kerajaan Negeri
-- Sultan/Raja/YDPN
-- Ketua Menteri/Menteri Besar 
-- Majlis Mesyuarat Kerajaan (MMK) atau Exco
-- Jabatan/Agensi
-- Perbadanan Awam
-- Suruhanjaya
-- Struktur 
-- **Sistem dan Struktur Pentadbiran Kerajaan Negeri** *bentuk jadual*
-* **Struktur Pentadbiran Semenanjung Malaysia**
-  - **Sultan/Raja/YDPN**
-    - *ada 3*
+###### Struktur Pentadbiran Semenanjung Malaysia
+* **Sultan/Raja/YDPN**
+  - *ada 3*
     * **Tugas eksekutif Sultan** 
       - Tugas Budi Bicara
       - Tugas mengikut nasihat
       - Sultan/YDPA = Pengerusi Majlis Pengampunan Negeri
       - Sultan/Raja = Ketua agama islam negeri masing2
-* **Ketua Menteri atau Menteri Besar dan tugasnya**
-  - *ada 8*
-* **Majlis Mesyuarat Kerajaan (MMK)
+\
+* **Ketua Menteri/Menteri Besar**
+ - *ada 8*
+\
+* **Majlis Mesyuarat Kerajaan (MMK) atau Exco**
   - *ada 5*
-* **Jabatan**
+\
+* **Jabatan/Agensi**
   * **Jabatan Negeri (Agensi Pusat Negeri)**
     * **Pejabat Setiausaha Kerajaan Negeri**
       - *ada 5 serta 5 fungsi* 
@@ -732,5 +733,138 @@
         - *ada 4*
       * **Jabatan Persekutuan Cawangan Negeri**
         - *ada 1 serta 1 contoh*
- 
-    
+\
+* **Perbadanan Awam**
+  - *ada 1 serta 3 badan (tidak) berkanun*
+\
+* **Suruhanjaya**
+  - *ada 2*
+\
+
+##### Struktur Pentadbiran Kerajaan Negeri Sabah dan Sarawak
+* **Yang di-Pertua Negeri**
+  - *ada 2*
+* **Majlis Tertinggi/Kabinet Negeri**
+  - *ada 2*
+\ 
+* **Peringkat Pentadbiran Negeri:**
+  - *ada 3*
+\
+* **Pentadbiran Semenajung Malaysia**
+  - Daerah
+  - Mukim
+  * **Kampung**
+    - *ada 2*
+\
+* **Pentadbiran Sabah dan Sarawak**
+  * **Pentadbiran di Sabah**
+    * **2 peringkat**
+      - Daerah: diketuai oleh Pegawai Daerah
+      - Kampung: diketuai oleh Ketua Kampung
+* **Pentadbiran di Sarawak**
+  * **4 peringkat**
+    - Bahagian: diketuai oleh Residen dan dibantu oleh Temenggong
+    - Daerah: diketuai oleh Pegawai daerah dan dibantu oleh Pemanca
+    - Daerah kecil: diketuai oleh Pegawai Tadbir Awam Sarawak
+    - Kampung: Diketuai oleh Ketua Kaum dan dibantu oleh Penghulu
+\ 
+* **Pejabat Setiausaha Persekutuan**
+  - *ada 3*
+\
+* **Pejabat Kewangan Persekutuan**
+  - *ada 1*
+      
+###### Pembahagian Kuasa dan Penyelarasan Perhubungan Antara Kerajaan Persekutuan dan Negeri
+* **Penyelarasan:**
+  * **Majlis Mesyuarat Kerajaan Negeri**
+    - *ada 1*
+  * **Jawatan Tindakan**
+    - *ada 2*
+  * **Jawatan Pembangunan**
+    - *ada 2*
+  * **Jawatan Keselamatan**
+    - *ada 2*
+  * **Jawatankuasa Pembangunan dan Penyelarasan Dewan Undangan Negeri (JAPERUN)**
+    - *ada 1 serta 4 tugas JAPERUN*
+  * **Jawatan kuasa Pembangunan dan Keselamatan Kampung (JPKK) dan Jawatankuasa Pembangunan dan Keselamatan Kampung Persekutuan (JPKKP)**
+    - *ada 5*
+\
+* **Pembahagian Kuas dan Penyelarasan Perhubungan Antara Kerajaan Persekutuan dan Negeri**
+  - *ada jadual*
+  * **Penyelarasan**
+    - *ada 2 serta 6 contoh*
+\
+* **Proses dan Jentera Perancangan dan Pemantauan Pembangunan Negara**
+  - *ada 8 serta jadual*
+
+#### 7.2.3 Kerajaan Tempatan
+* **Kerajaan tempatan (akta 171) (\textit{bentuk jadual})**
+  * Kewangan
+  * **Jenis**
+    - Dewan Bandaraya
+    - Perbandaran
+    - Majlis Daerah
+  * Fungsi
+
+##### 7.2.3.1 Punca Kewangan Pihak Berkuasa Tempatan
+- Cukai taksiran harta
+- Bayaran perkhidmatan dan lesen
+- Pinjaman serta pemberian daripada kerajaan negeri
+- **Peruntukan pelancaran daripada Persekutuan berdasarkan:**
+  - Luas kawasan
+  - Jumlah hasil dikutip
+  - Jumlah penduduk
+
+##### 7.2.3.2 Struktur Pentadbiran Kerajaan Tempatan
+- *ada 8 serta 3 kuasa kerajaan tempatan*
+
+##### 7.2.3.3 Tujuan Penubuhan Kerajaan Tempatan
+- *ada 2*
+
+##### 7.2.3.4 Jenis Kerajaan Tempatan
+- *ada 2 serta 3 KT disusun mengikut hierarki*
+
+###### Susunan Organisasi dan Kakitangan
+- *ada 5 serta 3 pegawai tertinggi bergantung status KT*
+
+##### 7.2.3.5 Tugas-tugas Pihak Berkuasa Tempatan (PBT)
+- *ada 2 serta 8 tugas dan peranan*
+
+###### Tugas dan Perkhidmatan
+* **Alam Sekitar**
+  - *ada 1*
+* **Orang Awam**
+  - *ada 3*
+* **Social**
+  - *ada 2*
+* **Pembangunan**
+  - *ada 1*
+
+##### 7.2.3.6 Hubungan Kerajaan Tempatan dengan Kerajaan Negeri dan Kerajaan Persekutuan
+- *ada 3*
+
+###### Kuasa Kerajaan Negeri Terhadap PBT
+- Meluluskan anggaran belanjawan
+- Meluluskan pinjaman PBT
+- Mengesahkan undang2 kecil
+- Melantik ahli Majlis
+- Mengawal perubahan sempadan
+- *serta nota*
+
+### 7.3 Sistem Perancangan dan Pelaksanaan Bagi Kerajaan Persekutuan
+* **Penggubalan Dasar**
+  - mencapai pembangunan seimbang bagi wujud rakyat
+* **Perancangan**
+  - Membentuk strategi perancangan dan pembangunan peringkat nasional, *tempat*
+* **Pelaksanaan**
+  - Untuk menyokong dan menterjemah dasar2 pembangunan negara
+* **Penyelarasan**
+  - Melaksanakan satu program/projek pembangunan
+* **Penilaian**
+  - mengenai pasti kesan projek 
+
+### 7.4 Jawatankuasa Perancanngan Pembangunan Negara (JPPN)
+
+
+
+
