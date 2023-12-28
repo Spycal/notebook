@@ -1,12 +1,12 @@
 ---
-header-includes: |
-  \usepackage[legalpaper, landscape, margin=2cm]{geometry}
-
+geometry: margin=2cm
+fontsize: 10pt  
 ---
 
-# Isi Kandungan dan Fakta
+# Isi Kandungan dan Fakta Penting
 
 ## \underline{2.0 Konsep dan Ciri Negara Berdaulat}
+
 ### 2.1 Negara
 - Takrifan Negara
 
@@ -157,6 +157,7 @@ header-includes: |
   - Senarai Bersama
 
 #### 3.7 Kepentingan Perlembagaan
+- *ada 6 serta 6 ringkasnya*
 
 ## \underline{4.0 Kerajaan Malaysia}
 - Sistem kerajaan Malaysia (\textit{ada 3})
@@ -404,7 +405,7 @@ header-includes: |
 - *ada 1*
 
 ### 5.5 Mahkamah Khas Larangan Buang Negeri dan Kebebasan Bergerak
-- *ada 6 jenis mahkamah, pengadilan dan perlantikannya dan bidang kuasa (asal dan catatan)*
+- *ada 6 jenis mahkamah, pengadilan dan perlantikanya dan bidang kuasa (asal dan catatan)*
 
 ### 5.6 Mahkamah Koroner/Prosiding Inkues
 - *ada 11*
@@ -465,7 +466,7 @@ header-includes: |
 #### 6.2.9 Proses Pilihan Raya
 - *ada 2*
 
-#### 6.2.10
+#### 6.2.10 Deposit
 ##### 6.2.10.1 Deposit Calon Pilihan Raya
 - Pilihan Raya Parlimen - RM10,000.00
 - Pilihan Raya Dewan Undangan Negeri - RM5,000.00
@@ -560,19 +561,24 @@ header-includes: |
 - Perbadanan Awam
 - *jadual ditunjuk*
 
-* **Yang di-Pertuan Agung**
-  - *ada 1*
-* **Perdana Menteri**
+###### Yang di-Pertuan Agung
+- *ada 1*
+
+###### Perdana Menteri
+- *ada 3*
+
+###### Jemaah Menteri
+- *ada 17*
+
+###### Ketua Setiausaha Negara
+- *ada 4 serta 5 beliau merupakan pengerusi, 2 beliau merupakan setiausaha*
+
+###### Kementerian-Kementerian Kerajaan Persekutuan  
+- **Tugasan Kementerian**
   - *ada 3*
-* **Jemaah Menteri**
-  - *ada 17*
-* **Ketua Setiausaha Negara**
-  - *ada 4 serta 5 beliau merupakan pengerusi, 2 beliau merupakan setiausaha*
-* **Kementerian-Kementerian Kerajaan Persekutuan**  
-  - **Tugassan Kementerian**
-    - *ada 3*
-  - Ketua Setiausaha Kementerian merupakan ketua pentadbiran kementerian
-* **Agensi Kerajaan**
+- Ketua Setiausaha Kementerian merupakan ketua pentadbiran kementerian
+
+###### Agensi Kerajaan
   - Agensi pusat serta tanggungjawab
   - Agensi mengurus/pelaksana
   * **Tugas Unit Perancang Ekonomi (UPE)**
@@ -591,86 +597,87 @@ header-includes: |
      - *ada 8*
   * **Agensi Mengurus/Pelaksana**
      - *ada 2*
-* **Majlis**
-  - *ada 4 serta 2 majlis ditubuhkan, 5 contoh majlis perundangan, 4 contoh ditubuhkan kabinet*
-  * **Majlis-majlis yang ditubuhkan oleh perlembagaan**
-    * **Majlis Tanah Negara**
-       - Keahlian (\textit{ada 4})
-       - Tugas (\textit{ada 4})
-    * **Majlis Kewangan Negara**
-       - Keahlian (\textit{ada 1})
-       - Tugas (\textit{ada 2})
-    * **Majlis Negara bagi Kerajaan Tempatan**
-       - Keahlian (\textit{ada 2})
-       - Tugas (\textit{ada 1})
-  * **Majlis yang ditubuhkan oleh Kabinet**
-    - Majlis Tindakan Negara serta tugas *ada 1*
-    - Majlis Ekonomi Negara serta tugas *ada 6* 
-    - Majlis Keselamatan Negara serta tugas *ada 2* 
-    - Majlis Tindakan Ekonomi serta tugas *ada 3*
-* **Suruhanjaya**
-  - *ada 5 serta 4 tidak jadi anggota, 3 syarat*
-  * **Dua jenis suruhanjaya di negara:**
-    1. **Suruhanjaya ditubuhkan di bawah perlembagaan**
-       - Suruhanjaya Perkhidmatan
-       - Suruhanjaya Pilihan Raya
-    2. Suruhanjaya ditubuhkan oleh Kabinet/Kerajaan 
-  * **Suruhanjaya Perkhidmatan Awam (SPA)**
-    * **Keanggotaan:**
-      - *ada 4*
-    * **Tugas:**
-      - Pelantikan 
-      - Pengesahan dalam Perkhidmatan
-      - Pemberian Taraf Berpencen
-      - Pertukaran Perkhidmatan
-      - Kenaikan Pangkat
-      - Kawalan Tatatertib
-  * **Suruhanjaya Perkhidmatan Kehakiman dan Undang-Undang (SPKP)**
-    * **Keanggotaan:**
-      - *ada 2 serta*
-        - Pengerusi SPA menjadi hendaklah pengerusi
-        - Peguam Negara
-        - Seorang anggota lain dilantik..
-    * **Tugas**
-      - melantik, mengesahkan, memasukkan..
-  * **Suruhanjaya Perkhidmatan Pendidikan**
-    * **Keanggotaan:**
-      - Seorang Pengerusi dan Timbalan Pengerusi
-      - Tidak kurang empat orang 
-    * **Tugas:**
-      - melantik, mengesahkan, memasukkan..
-  * **Suruhanjaya Pasukan Polis**
-    * **Keanggotaan:**
-      - *ada 4*
-    * **Tugas:**
-      - melantik, mengesahkan, memasukkan..
-  * **Majlis Angkatan Tentera**
-    * **Keanggotaan:** 
-      - *ada 8 (Seorang pengawai tentera laut/udara)*
-    * **Tugas:**
-      - Tanggungjawab YDPA
-  * **Suruhanjaya Pencegahan Rasuah Malaysia (SPRM)** 
-    * **Keanggotaan:**
-      * *ada 2*
-    * **Tugas:**
-      * *ada 8 serta nota*
-  * **Suruhanjaya Pengangkutan Awam Darat (SPAD)**
-    * **Tugas:**
-      - Merancang
-      - Mengawal Selia
-      - Penguatkuasa
-      - *serta catatan*
-  * **Suruhanjaya Perkhidmatan Negara (SPAN)**
-    * **Tugas:**
-      - Mengawal selia, melesenkan, menguatkuasa (ada 5)
-  * **Suruhanjaya Hak Asasi Malaysia (SUHAKAM)**
-    * **Tugas:**
-      - Memupuk kesedaran, Menasihati kerajaan, mengesyorkan kerajaan dan menyiasat aduan
-  * **Suruhanjaya Pelantikan Kehakiman**
-    * **Tugas:**
-      - Memilih orang, menerima permohonan, melaksanakan mekanisme pemilihan dan mengkaji semula dan gesyor program
-  * **Suruhanjaya Integriti Agensi Penguatkuasa**
-    * *Fungsi ada 8*
+
+###### Majlis
+- *ada 4 serta 2 majlis ditubuhkan, 5 contoh majlis perundangan, 4 contoh ditubuhkan kabinet*
+* **Majlis-majlis yang ditubuhkan oleh perlembagaan**
+  * **Majlis Tanah Negara**
+     - Keahlian (\textit{ada 4})
+     - Tugas (\textit{ada 4})
+  * **Majlis Kewangan Negara**
+     - Keahlian (\textit{ada 1})
+     - Tugas (\textit{ada 2})
+  * **Majlis Negara bagi Kerajaan Tempatan**
+     - Keahlian (\textit{ada 2})
+     - Tugas (\textit{ada 1})
+* **Majlis yang ditubuhkan oleh Kabinet**
+  - Majlis Tindakan Negara serta tugas *ada 1*
+  - Majlis Ekonomi Negara serta tugas *ada 6* 
+  - Majlis Keselamatan Negara serta tugas *ada 2* 
+  - Majlis Tindakan Ekonomi serta tugas *ada 3*
+
+###### Suruhanjaya
+- *ada 5 serta 4 tidak jadi anggota, 3 syarat*
+* **Dua jenis suruhanjaya di negara:**
+  1. **Suruhanjaya ditubuhkan di bawah perlembagaan**
+     - Suruhanjaya Perkhidmatan
+     - Suruhanjaya Pilihan Raya
+  2. Suruhanjaya ditubuhkan oleh Kabinet/Kerajaan 
+* **Suruhanjaya Perkhidmatan Awam (SPA)**
+  * **Keanggotaan:**
+    - *ada 4*
+  * **Tugas:**
+    - Pelantikan 
+    - Pengesahan dalam Perkhidmatan
+    - Pemberian Taraf Berpencen
+    - Pertukaran Perkhidmatan
+    - Kenaikan Pangkat
+    - Kawalan Tatatertib
+* **Suruhanjaya Perkhidmatan Kehakiman dan Undang-Undang (SPKP)**
+  * **Keanggotaan:**
+    - *ada 2 serta*
+    - Pengerusi SPA menjadi hendaklah pengerusi
+    - Peguam Negara
+    - Seorang anggota lain dilantik..
+  * **Tugas**
+    - melantik, mengesahkan, memasukkan..
+* **Suruhanjaya Perkhidmatan Pendidikan**
+  * **Keanggotaan:**
+    - Seorang Pengerusi dan Timbalan Pengerusi
+    - Tidak kurang empat orang 
+  * **Tugas:**
+    - melantik, mengesahkan, memasukkan..
+* **Suruhanjaya Pasukan Polis**
+  * **Keanggotaan:** *ada 4*
+  * **Tugas**: melantik, mengesahkan, memasukkan..
+* **Majlis Angkatan Tentera**
+  * **Keanggotaan:** 
+    - *ada 8 (Seorang pengawai tentera laut/udara)*
+  * **Tugas:**
+    - Tanggungjawab YDPA
+* **Suruhanjaya Pencegahan Rasuah Malaysia (SPRM)** 
+  * **Keanggotaan:**
+    * *ada 2*
+  * **Tugas:**
+    * *ada 8 serta nota*
+* **Suruhanjaya Pengangkutan Awam Darat (SPAD)**
+  * **Tugas:**
+    - Merancang
+    - Mengawal Selia
+    - Penguatkuasa
+    - *serta catatan*
+* **Suruhanjaya Perkhidmatan Negara (SPAN)**
+  * **Tugas:**
+    - Mengawal selia, melesenkan, menguatkuasa (ada 5)
+* **Suruhanjaya Hak Asasi Malaysia (SUHAKAM)**
+  * **Tugas:**
+    - Memupuk kesedaran, Menasihati kerajaan, mengesyorkan kerajaan dan menyiasat aduan
+* **Suruhanjaya Pelantikan Kehakiman**
+  * **Tugas:**
+    - Memilih orang, menerima permohonan, melaksanakan mekanisme pemilihan dan mengkaji semula dan gesyor program
+* **Suruhanjaya Integriti Agensi Penguatkuasa**
+  * *Fungsi ada 8*
+\
 * **Perbadanan Awam**
   - *ada 3*
   * **Jenis2 perbadanan awam**
@@ -702,11 +709,11 @@ header-includes: |
 ###### Struktur Pentadbiran Semenanjung Malaysia
 * **Sultan/Raja/YDPN**
   - *ada 3*
-    * **Tugas eksekutif Sultan** 
-      - Tugas Budi Bicara
-      - Tugas mengikut nasihat
-      - Sultan/YDPA = Pengerusi Majlis Pengampunan Negeri
-      - Sultan/Raja = Ketua agama islam negeri masing2
+  * **Tugas eksekutif Sultan** 
+    - Tugas Budi Bicara
+    - Tugas mengikut nasihat
+    - Sultan/YDPA = Pengerusi Majlis Pengampunan Negeri
+    - Sultan/Raja = Ketua agama islam negeri masing2
 \
 * **Ketua Menteri/Menteri Besar**
  - *ada 8*
@@ -714,25 +721,25 @@ header-includes: |
 * **Majlis Mesyuarat Kerajaan (MMK) atau Exco**
   - *ada 5*
 \
-* **Jabatan/Agensi**
-  * **Jabatan Negeri (Agensi Pusat Negeri)**
-    * **Pejabat Setiausaha Kerajaan Negeri**
-      - *ada 5 serta 5 fungsi* 
-    * **Pejabat Kewangan Negeri**
+##### Jabatan/Agensi
+* **Jabatan Negeri (Agensi Pusat Negeri)**
+  * **Pejabat Setiausaha Kerajaan Negeri**
+    - *ada 5 serta 5 fungsi* 
+  * **Pejabat Kewangan Negeri**
+    - *ada 4*
+  * **Pejabat Penasihat Undang-Undang Negeri**
+    - *ada 7 serta 3 tugas*
+  * **Unit Perancang Ekonomi Negeri**
+    - *ada 7*
+* **Jabatan Persekutuan Cawangan Negeri (Pejabat Kemajuan Negeri)** 
+  - *ada 5 tugas*
+  * **Pejabat Negeri (Agensi Pelaksana)**
+    * Jabatan Tanah dan Giliran**
+      - *ada 6* 
+    * **Jabatan Daerah dan Tanah**
       - *ada 4*
-    * **Pejabat Penasihat Undang-Undang Negeri**
-      - *ada 7 serta 3 tugas*
-    * **Unit Perancang Ekonomi Negeri**
-      - *ada 7*
-  * **Jabatan Persekutuan Cawangan Negeri (Pejabat Kemajuan Negeri)** 
-    - *ada 5 tugas*
-    * **Pejabat Negeri (Agensi Pelaksana)**
-      * Jabatan Tanah dan Giliran**
-        - *ada 6* 
-      * **Jabatan Daerah dan Tanah**
-        - *ada 4*
-      * **Jabatan Persekutuan Cawangan Negeri**
-        - *ada 1 serta 1 contoh*
+    * **Jabatan Persekutuan Cawangan Negeri**
+      - *ada 1 serta 1 contoh*
 \
 * **Perbadanan Awam**
   - *ada 1 serta 3 badan (tidak) berkanun*
@@ -747,7 +754,7 @@ header-includes: |
 * **Majlis Tertinggi/Kabinet Negeri**
   - *ada 2*
 \ 
-* **Peringkat Pentadbiran Negeri:**
+* **Peringkat Pentadbiran Negeri**
   - *ada 3*
 \
 * **Pentadbiran Semenajung Malaysia**
@@ -757,12 +764,10 @@ header-includes: |
     - *ada 2*
 \
 * **Pentadbiran Sabah dan Sarawak**
-  * **Pentadbiran di Sabah**
-    * **2 peringkat**
-      - Daerah: diketuai oleh Pegawai Daerah
-      - Kampung: diketuai oleh Ketua Kampung
-* **Pentadbiran di Sarawak**
-  * **4 peringkat**
+  * **Pentadbiran di Sabah (2 peringkat)**
+    - Daerah: diketuai oleh Pegawai Daerah
+    - Kampung: diketuai oleh Ketua Kampung
+  * **Pentadbiran di Sarawak (4 peringkat)**
     - Bahagian: diketuai oleh Residen dan dibantu oleh Temenggong
     - Daerah: diketuai oleh Pegawai daerah dan dibantu oleh Pemanca
     - Daerah kecil: diketuai oleh Pegawai Tadbir Awam Sarawak
@@ -864,7 +869,53 @@ header-includes: |
   - mengenai pasti kesan projek 
 
 ### 7.4 Jawatankuasa Perancanngan Pembangunan Negara (JPPN)
+#### 7.4.1 Fungsi JPPN 
+- *ada 2*
 
+#### 7.4.2 Keahlian JPPN (semasa)
+1. Ketua Setiausaha Negara: Pengerusi
+2. Ketua Pengarah Perkhidmatan Awam
+3. Peguam Negara
+4. Ketua Setiausaha PErbendaharaan
+5. Gabenor Bank Negara
+6. Ketua Audit Negara
+7. Ketua Pengarah UPP
+8. Ketua Pengarah MAMPU
+9. Ketua Pengarah UPE
+10. Ketua Pengarah JKR
+
+### 7.5 Nota Tambahan
+#### 7.5.1 Biro-biro yang Ditubuhkan Kerajaan
+1. **Biro Bantuan Guaman**
+   * **ada 2 serta 5 bidang kuasa**
+     1. Kes2 kekeluargaan Syariah
+     2. Kes2 kekeluargaan sivil
+     3. **Kes2 sivil**
+        - *ada 10* 
+     5. **Kes2 jenayah**
+        1. Pengakuan salah
+        2. Jenayah kanak2
+        3. Kesalahan kecil jenayah
+     6. Nasihat guaman dalam semua perkara undang2
+2. **Biro Pengaduan Awam**
+   * *ada 6*
+
+#### 7.5.2 Rumusan Pelantikan Jawatan Utama yang Dibuat oleh Seri Paduka Baginda Yang di-Pertuan Agong
+- *ada 11 jawatan, atas nasihat, selepas dirundingkan, rujukan perlembagaan*
+
+#### 7.5.3 Jenis Pegangan Tanah
+1. **Freehold** atau pegangan bebas
+   - *ada 1*
+2. **Leasehold** atau pegangan berstatus Pajakan
+  - *ada 3*
+3. **Hak Milik Sementara** (1 atau 2)
+   - *ada 2*
+
+#### 7.5.4 Perkara-perkara Berkaitan dengan Kewarganegaraan
+- *ada 5*
+
+
+     
 
 
 
