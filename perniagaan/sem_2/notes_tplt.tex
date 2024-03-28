@@ -1,0 +1,69 @@
+\documentclass{book}
+\usepackage[
+  margin=1.0cm, 
+  lmargin=2.5cm,
+  bmargin=2cm,
+  includehead,
+  headheight=1cm,
+  nomarginpar
+]{geometry}
+\usepackage{blindtext}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage[sfdefault]{FiraSans}
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\begin{document}
+  \pagestyle{fancy}
+  \fancyhead[LO, LE]{\textbf{\Large{Penggajian Perniagaan: Semester 2}}}
+  \fancyhead[RO, RE]{\thepage}
+  \fancyfoot[LO, LE]{\textit{Ditulis menggunakan} \LaTeX}
+  \fancyfoot[CO, CE]{}
+  
+  \section*{Cool Header}
+  \blindtext[1]
+  \subsection*{Sub-Cool Header}
+  \begin{multicols}{2}
+    \blindtext[2]
+  \end{multicols}
+  \section*{Hot Header}
+  \blindtext[2]
+  \section*{Warm Header}
+  \blindtext
+   
+  \begin{multicols}{2}
+    \blindtext[10] 
+  \end{multicols}
+  \begin{center}
+    \begin{tabular}{ | m{2cm} | m{2cm} | m{2cm} | }
+    \hline
+      Name & Age & Roles \\
+      \hline
+      Max & 19 & SysAdmin \\
+      \hline
+      Ruby & 22 & Accountant \\
+      \hline
+      Elijah & 21 & Technician \\
+      \hline
+    \end{tabular}
+  \end{center}
+
+  \paragraph{This is type of niceness}
+  \begin{itemize}
+    \item Nice
+    \item Not Nice
+    \item Half Nice
+  \end{itemize}
+  
+  \paragraph{This is type of major}
+  \begin{enumerate}
+    \item Computer Science
+    \item Accountant
+    \item Business
+  \end{enumerate}
+
+\end{document}
